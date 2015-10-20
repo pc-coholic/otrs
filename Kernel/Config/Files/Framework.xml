@@ -5527,6 +5527,7 @@ via the Preferences button after logging in.
                     <Block>ItemArea</Block>
                     <AccessKey></AccessKey>
                 </NavBar>
+<!--
                 <NavBar>
                     <GroupRo>stats</GroupRo>
                     <Description Translatable="1"></Description>
@@ -5539,6 +5540,7 @@ via the Preferences button after logging in.
                     <Block></Block>
                     <AccessKey></AccessKey>
                 </NavBar>
+-->
                 <NavBar>
                     <GroupRo>stats</GroupRo>
                     <Description Translatable="1"></Description>
